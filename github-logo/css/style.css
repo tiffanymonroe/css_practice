@@ -1,0 +1,17 @@
+
+
+.row {
+  clear: both;
+  overflow: auto;
+  margin: 0 auto;
+  width: 425px;
+}
+
+.col {
+  border: 3px dotted grey;
+  display: block;
+  float: left;
+  height: 100px;
+  margin: 0 auto;
+  width: 100px;
+}
